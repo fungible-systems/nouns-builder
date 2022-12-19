@@ -4,9 +4,7 @@
 
 Easily configure and deploy an app for your Nouns-based DAO. Beautifully designed and hand crafted. Built with accessibility and wonderful developer and user experience in mind. 
 
-The artwork used throughout our prototype is by [Adam Ho](https://www.adamho.com/).
-
-https://user-images.githubusercontent.com/11803153/208446645-1522b05b-e07c-4ec6-b323-d92805ba54b3.mp4
+https://user-images.githubusercontent.com/11803153/208508983-1e57ba2d-29c9-41dd-bb13-a992bbc1def7.mp4
 
 ## Proposal details
 
@@ -15,7 +13,7 @@ We’ve been interested in working within the nouns ecosystem for a while, and t
 ## Design & features
 
 
-https://user-images.githubusercontent.com/11803153/208448267-6056eb9e-59dd-4d42-9c07-508f73a3ef20.mp4
+https://user-images.githubusercontent.com/11803153/208509009-7ff12dd9-8aba-426a-8901-ca15c642798b.mp4
 
 
 ### Auctions
@@ -27,7 +25,8 @@ https://user-images.githubusercontent.com/11803153/208448267-6056eb9e-59dd-4d42-
 
 ### About
 
-https://user-images.githubusercontent.com/11803153/208448391-ec89d83c-3fc5-4a48-845e-d5c0fa915264.mp4
+![image](https://user-images.githubusercontent.com/11803153/208509667-d5218fcf-d64f-4759-800e-9eb342200a50.png)
+
 
 Section on the homepage about the DAO with the following:
 
@@ -49,7 +48,7 @@ We’ve designed the overview of proposals to be simple, but with a higher densi
 
 #### A proposal
 
-https://user-images.githubusercontent.com/11803153/208448964-b304f7f1-7127-4ce8-9725-556da6b1d189.mp4
+https://user-images.githubusercontent.com/11803153/208509019-7b3edb9f-04f5-4ab4-a34d-50b2279bde60.mp4
 
 We’ve designed the proposal page to show the status of a proposal at a glance, yet enable a high degree of expression in its description.
 
@@ -72,7 +71,7 @@ We’ve designed the proposal page to show the status of a proposal at a glance,
 
 ### Customizable
 
-https://user-images.githubusercontent.com/11803153/208449107-83ae4495-01b6-415c-9e57-afa924d7f66f.mp4
+https://user-images.githubusercontent.com/11803153/208509028-d2aac234-3da7-4f76-92ff-2720489268f7.mp4
 
 We’ve designed everything to be easily customizable based on a default theme or a theme you provide. All the core functionality of the app is synced from the DAO smart contract, with easy to update components and markdown support. To get started, you only need to set some environmental variables and deploy.
 
