@@ -86,4 +86,4 @@ Documentation will include examples on how to (ideally) one-click deploy to the 
 
 ## The team
 
-We’re [Jenna](https://twitter.com/jjenzz)], [Thomas](https://twitter.com/aulneau_), [Jasper](https://twitter.com/jasperjansz) and Graeme, aka [Fungible Systems](https://fungible.systems) — a design and engineering studio with a focus in web3 and crypto. Since starting our studio earlier this year, we’ve had the pleasure to work with some of the industry’s biggest names and most promising startups. We’ve been interested in participating in the Nouns ecosystem for some time, and thought this would be a wonderful entrance into the space.
+We’re [Jenna](https://twitter.com/jjenzz), [Thomas](https://twitter.com/aulneau_), [Jasper](https://twitter.com/jasperjansz) and Graeme, aka [Fungible Systems](https://fungible.systems) — a design and engineering studio with a focus in web3 and crypto. Since starting our studio earlier this year, we’ve had the pleasure to work with some of the industry’s biggest names and most promising startups. We’ve been interested in participating in the Nouns ecosystem for some time, and thought this would be a wonderful entrance into the space.
